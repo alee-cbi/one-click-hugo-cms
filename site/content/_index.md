@@ -1,6 +1,6 @@
 ---
 title: Du bon café
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: Bienvenue jeune aventurier!
 image: /img/home-jumbotron.jpg
 blurb:
   heading: Why Kaldi?
